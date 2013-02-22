@@ -10,4 +10,11 @@
 
 @interface classViewController : UIViewController
 
+@property NSString *firstName;
+@property NSString *lastName;
+
+@property UISwipeGestureRecognizer *rightGesture;
+@property UISwipeGestureRecognizer *leftGesture;
+
+
 @end
