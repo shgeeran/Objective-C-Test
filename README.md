@@ -1,6 +1,6 @@
 # Objective-C-Test
 
-this is a readme file
+this is my readme file
 
 ```Javascript
 public static test(int i) {
@@ -14,4 +14,4 @@ public static test(int i) {
 | col 2 is      | centered        |   $12 |
 | zebra stripes | are neat        |    $1 |
 
-end of file.
+# end of read me file.
